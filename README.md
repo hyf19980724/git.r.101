@@ -2,4 +2,4 @@
 First git porject for DM course
 
 ## Section added on Github
-I an testing the github editor
+I am testing the github editor
